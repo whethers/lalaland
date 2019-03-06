@@ -1,0 +1,23 @@
+Error (line 15): Space before function name
+Error (line 15): declarations must be followed by one empty line in main
+Error (line 17): bad indentation
+Error (line 17): must begin only by tabulations
+Error (line 18): bad indentation
+Error (line 18): must begin only by tabulations
+Error (line 19): bad indentation
+Error (line 19): must begin only by tabulations
+Error (line 20): Empty line
+Error (line 21): bad indentation
+Error (line 21): must begin only by tabulations
+Error (line 22): bad indentation
+Error (line 22): must begin only by tabulations
+Error (line 23): bad indentation
+Error (line 23): must begin only by tabulations
+Error (line 24): bad indentation
+Error (line 24): must begin only by tabulations
+Error (line 25): bad indentation
+Error (line 25): must begin only by tabulations
+Error (line 26): bad indentation
+Error (line 26): must begin only by tabulations
+Error (line 28): bad indentation
+Error (line 28): must begin only by tabulations
